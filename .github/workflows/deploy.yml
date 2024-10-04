@@ -24,7 +24,7 @@ jobs:
           node-version: 14
 
       - name: Update npm 🚀
-        run: npm install -g npm@latest
+        run: npm install -g npm
 
       - name: Install and Build 🔧 # Build the Project
         run: |
