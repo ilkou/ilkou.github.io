@@ -9,7 +9,7 @@ const greeting = {
   username: "Oussama Ouklich",
   title: "Hi all, I'm Oussama",
   subTitle: emoji(
-      "A passionate Senior Software Engineer 🚀 with experience in building Web, Mobile, and Desktop applications with React Js / Node Js / Spring / React Native / QT and some other cool libraries and frameworks."
+      "A passionate Senior Software Engineer 🚀 with 3+ years of expertise in full-stack development. Specializes in Spring, React, and microservices architecture. Proven track record in optimizing SaaS solutions across industries."
   ),
   resumeLink:
       "https://flowcv.com/resume/fnb05mp670",
